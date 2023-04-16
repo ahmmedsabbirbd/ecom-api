@@ -1,0 +1,6 @@
+project by al amin
+1. table desgin db desgin // create scema.
+2. php artisan make:model product // direct connect db
+3. php artisan make:model category // direct connect db
+4. php artisan make:controller api/CategoryController -r // create api
+5. php artisan make:controller api/ProductController -r // create api
